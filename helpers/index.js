@@ -1,4 +1,4 @@
-const readFilePro = require('./readFilePromis');
+const readFilePro = require('./readFilePromise');
 const writeFilePro = require('./writeFilePromise')
 
 module.exports = {
